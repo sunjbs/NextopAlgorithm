@@ -5,7 +5,7 @@
 | [화살표 그리기](https://www.acmicpc.net/problem/15975) | [draw_arrow1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/draw_arrow1.cpp), [draw_arrow2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/draw_arrow2.cpp) |
 | [관중석](https://www.acmicpc.net/problem/10166) | [stand1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/stand1.cpp), [stand2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/stand2.cpp) |
 | [두 박스](https://www.acmicpc.net/problem/15973) | [two_boxes1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/two_boxes1.cpp), [two_boxes2](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/two_boxes2.cpp) |
-| [행복](https://www.acmicpc.net/problem/15969) | |
+| [행복](https://www.acmicpc.net/problem/15969) | [happiness.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/happiness.cpp) |
 | [물통](https://www.acmicpc.net/problem/14867) | |
 
 
