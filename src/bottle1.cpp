@@ -41,8 +41,6 @@ int getIndex(int nowA, int nowB, int nowCase){
 }
 
 int main(){
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
     int a, b, c, d;
     for(int i = 0; i < CASE_SIZE; i++)
         for(int j = 0; j < SIZE; j++)
