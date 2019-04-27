@@ -13,6 +13,16 @@
 | [방배정](https://www.acmicpc.net/problem/13304) | []() |
 
 
+## 연습
+
+| 문제 이름(채점 링크) | 파일 이름 |
+| ----------------- | ------ |
+| [약수 구하기](https://www.acmicpc.net/problem/2501) | []() |
+| [카드 역배치](https://www.acmicpc.net/problem/10804) | []() |
+| [가로수](https://www.acmicpc.net/problem/2485) | []() |
+| [토마토](https://www.acmicpc.net/problem/7569) | []() |
+| [놀이공원](https://www.acmicpc.net/problem/2594) | []() |
+
 ## cin, cout 속도 줄이기
 ``` c++
 ios_base::sync_with_stdio(false);
