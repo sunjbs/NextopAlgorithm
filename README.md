@@ -15,13 +15,13 @@
 
 ## 연습
 
-| 문제 이름(채점 링크) | 파일 이름 |
+| 문제 이름(채점 링크) | 풀이 링크 |
 | ----------------- | ------ |
-| [약수 구하기](https://www.acmicpc.net/problem/2501) | []() |
-| [카드 역배치](https://www.acmicpc.net/problem/10804) | []() |
-| [가로수](https://www.acmicpc.net/problem/2485) | []() |
-| [토마토](https://www.acmicpc.net/problem/7569) | []() |
-| [놀이공원](https://www.acmicpc.net/problem/2594) | []() |
+| [약수 구하기](https://www.acmicpc.net/problem/2501) | [풀이 및 코드](https://dochi3.tistory.com/18?category=685514) |
+| [카드 역배치](https://www.acmicpc.net/problem/10804) | [풀이 및 코드](https://dochi3.tistory.com/19?category=685514) |
+| [가로수](https://www.acmicpc.net/problem/2485) | [풀이 및 코드](https://dochi3.tistory.com/20?category=685514) |
+| [토마토](https://www.acmicpc.net/problem/7569) | [풀이 및 코드](https://dochi3.tistory.com/21?category=685514) |
+| [놀이공원](https://www.acmicpc.net/problem/2594) | [풀이 및 코드](https://dochi3.tistory.com/22?category=685514) |
 
 ## cin, cout 속도 줄이기
 ``` c++
