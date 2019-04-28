@@ -23,6 +23,12 @@
 | [토마토](https://www.acmicpc.net/problem/7569) | [풀이 및 코드](https://dochi3.tistory.com/21?category=685514) |
 | [놀이공원](https://www.acmicpc.net/problem/2594) | [풀이 및 코드](https://dochi3.tistory.com/22?category=685514) |
 
+## 수학문제 참조 동영상
+
+- [2017년 정보 올림피아드 고등부 지역예선 1번 ~ 5번](https://youtu.be/5laxJD1yp8A?list=UUjGIi1SFMH3wmTDkjEHSXhQ)
+- [2017년 정보 올림피아드 고등부 지역예선 6번 ~ 10번](https://youtu.be/QCYOcnhuH20?list=UUjGIi1SFMH3wmTDkjEHSXhQ)
+- [2017년 정보 올림피아드 고등부 지역예선 11번 ~ 15번](https://youtu.be/piqKnjvDpTs?list=UUjGIi1SFMH3wmTDkjEHSXhQ)
+
 ## cin, cout 속도 줄이기
 ``` c++
 ios_base::sync_with_stdio(false);
