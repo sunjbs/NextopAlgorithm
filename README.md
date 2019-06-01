@@ -7,11 +7,20 @@
 | [두 박스](https://www.acmicpc.net/problem/15973) | [two_boxes1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/two_boxes1.cpp), [two_boxes2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/two_boxes2.cpp) |
 | [행복](https://www.acmicpc.net/problem/15969) | [happiness.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/happiness.cpp) |
 | [물통](https://www.acmicpc.net/problem/14867) | [bottle1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/bottle1.cpp) |
+| [수 정렬하기](https://www.acmicpc.net/problem/2750) | [numsort.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/numsort.cpp) |
+| [수 정렬하기2](https://www.acmicpc.net/problem/2751) | [numsort2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/numsort2.cpp) |
+| [수 정렬하기3](https://www.acmicpc.net/problem/10989) | [numsort3.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/numsort3.cpp)|
+| [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [DfsAndBfs.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/DfsAndBfs.cpp) | 
 | [방 배정하기](https://www.acmicpc.net/problem/14697) | []() |
 | [딱지놀이](https://www.acmicpc.net/problem/14696) | []() |
 | [리조트](https://www.acmicpc.net/problem/13302) | []() |
 | [방배정](https://www.acmicpc.net/problem/13304) | []() |
 
+## 자료구조
+
+| 자료구조 | 참고 |
+| ------ | ---- |
+| 그래프 | graph.c 참고 |
 
 ## 연습
 
