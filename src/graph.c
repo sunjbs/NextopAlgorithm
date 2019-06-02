@@ -16,8 +16,6 @@ struct Node* newNode(struct Node* next, int data){
 }
 
 int main(){
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
     int v, e;
     // 2차원배열로 하는 방법
     int matrix_graph[MAX_V][MAX_V] = { 0, };
