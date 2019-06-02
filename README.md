@@ -18,9 +18,9 @@
 
 ## 자료구조
 
-| 자료구조 | 참고 |
+| 자료구조 | 참고 코드 |
 | ------ | ---- |
-| 그래프 | graph.c 참고 |
+| 그래프 | [graph.c](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/graph.c) |
 
 ## 연습
 
