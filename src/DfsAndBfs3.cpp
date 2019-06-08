@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector> // 배열
 #include <list> // 링크드 리스트
+#include <queue> // 큐
 #include <algorithm> // sort
 using namespace std;
 
@@ -11,6 +12,23 @@ void dfs(int v, vector<list<int> > &graph, vector<bool> &visited){
     for(int u : graph[v])
         if(!visited[u])
             dfs(u, graph, visited);
+}
+
+void bfs(int v, vector<list<int> > &graph){
+    vector<bool> visited(graph.size());
+    queue<int> waiting;
+    waiting.push(v);
+    visited[v] = true;
+    while(waiting.size()){
+        int u = waiting.front();
+        cout << u << ' ';
+        waiting.pop();
+        for(int v : graph[u])
+            if(!visited[v]){
+                visited[v] = true;
+                waiting.push(v);
+            }
+    }
 }
 
 int main(){
@@ -29,5 +47,7 @@ int main(){
     for(int i = 1; i <= n; i++)
         graph[i].sort();
     dfs(v, graph, visited);
+    cout << endl;
+    bfs(v, graph);
     return 0;
 }

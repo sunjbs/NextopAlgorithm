@@ -14,6 +14,25 @@ void dfs(int v, int edge_count[], int graph[][MAX_V], int visited[]){
     }
 }
 
+void bfs(int v, int edge_count[], int graph[][MAX_V]){
+    int visited[MAX_V] = { 0, };
+    int waiting[MAX_V] = { 0, };
+    int a = -1, b = -1; // 현재 bfs를 위해 저장된 변수, a는 현재 위치, b는 배열에 저장된 원소 길이
+    visited[v] = 1;
+    waiting[++b] = v;
+    while(a < b){
+        int u = waiting[++a];
+        printf("%d ", u);
+        for(int i = 0; i < edge_count[u]; i++){
+            int v = graph[u][i];
+            if(!visited[v]){
+                visited[v] = 1;
+                waiting[++b] = v;
+            }
+        }
+    }
+}
+
 int main(){
     int n, m, v;
     int edge_count[MAX_V] = { 0, };
@@ -32,5 +51,7 @@ int main(){
     for(int i = 1; i <= n; i++)
         sort(graph[i], graph[i] + edge_count[i]);
     dfs(v, edge_count, graph, visited);
+    printf("\n");
+    bfs(v, edge_count, graph);
     return 0;
 }
