@@ -11,17 +11,19 @@
 | [수 정렬하기2](https://www.acmicpc.net/problem/2751) | [num_sort2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/num_sort2.cpp) |
 | [수 정렬하기3](https://www.acmicpc.net/problem/10989) | [num_sort3.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/num_sort3.cpp)|
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [DfsAndBfs1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/DfsAndBfs1.cpp), [DfsAndBfs2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/DfsAndBfs2.cpp), [DfsAndBfs3.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/DfsAndBfs3.cpp) | 
-| [미로 탐색](https://www.acmicpc.net/problem/2178) | [maze_search1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/maze_search1.cpp)[maze_search2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/maze_search2.cpp) |
+| [미로 탐색](https://www.acmicpc.net/problem/2178) | [maze_search1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/maze_search1.cpp), [maze_search2.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/maze_search2.cpp) |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916) | [get_minimum_cost1.cpp](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/get_minimum_cost1.cpp) |
 | [방 배정하기](https://www.acmicpc.net/problem/14697) | []() |
 | [딱지놀이](https://www.acmicpc.net/problem/14696) | []() |
 | [리조트](https://www.acmicpc.net/problem/13302) | []() |
 | [방배정](https://www.acmicpc.net/problem/13304) | []() |
 
-## 자료구조
+## 자료구조 & 알고리즘(C 언어)
 
-| 자료구조 | 참고 코드 |
+| 자료구조 & 알고리즘 | 참고 코드 |
 | ------ | ---- |
 | 그래프 | [graph.c](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/graph.c) |
+| 다익스트라 | [dijkstra.c](https://github.com/sunjbs/NextopAlgorithm/blob/master/src/dijkstra.c) |
 
 ## 연습
 
